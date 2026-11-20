@@ -17,7 +17,7 @@
         <div class="col-md-8 col-lg-6">
             <div class="card bg-dark text-white border-success shadow">
                 <div class="card-header bg-success text-center">
-                    <h3>Iniciar sessiones</h3>
+                    <h3>Iniciar session</h3>
                 </div>
                 <div class="card-body p-4">
                     @if ($errors->any())
