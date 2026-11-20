@@ -18,7 +18,7 @@
         <div class="col-md-10 col-lg-8">
             <div class="card bg-dark text-white border-success shadow">
                 <div class="card-header bg-success text-center">
-                    <h3>Iniciar sessio</h3>
+                    <h3>Iniciar sessio porfavor</h3>
                 </div>
                 <div class="card-body p-4">
                     <p>Aplicacio bancaria per consultar comptes i fer Bizums.</p>
